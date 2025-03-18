@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/meu-remedio/static/css/main.79d19d76.css",
-    "main.js": "/meu-remedio/static/js/main.043f5200.js",
+    "main.js": "/meu-remedio/static/js/main.23030a14.js",
     "static/js/453.f859af2d.chunk.js": "/meu-remedio/static/js/453.f859af2d.chunk.js",
     "index.html": "/meu-remedio/index.html",
     "main.79d19d76.css.map": "/meu-remedio/static/css/main.79d19d76.css.map",
-    "main.043f5200.js.map": "/meu-remedio/static/js/main.043f5200.js.map",
+    "main.23030a14.js.map": "/meu-remedio/static/js/main.23030a14.js.map",
     "453.f859af2d.chunk.js.map": "/meu-remedio/static/js/453.f859af2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79d19d76.css",
-    "static/js/main.043f5200.js"
+    "static/js/main.23030a14.js"
   ]
 }
